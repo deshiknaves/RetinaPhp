@@ -17,7 +17,7 @@ RetinaPhp will take this larger image and rename it to *image@2x.jpg* then creat
 *I'm sure a lot more will get added to this class over time, but it will achieve what is needed to serve retina images. If you have any suggestions or feature requests let me know.*
 
 ##How the images get displayed
-RetinaPhp was create with Retina.js <http://retinajs.com/> in mind. It is a fantastic script to swap high resolution images for devices that can take advantage of them. Check out the website for all the details.
+RetinaPhp was created with Retina.js <http://retinajs.com/> in mind. It is a fantastic script to swap high resolution images for devices that can take advantage of them. Check out the website for all the details.
 
 Of course, there are plenty of other ways RetinaPhp can be used to serve high resolution images.
 
